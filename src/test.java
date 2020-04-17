@@ -14,7 +14,8 @@ public class test {
 //        System.out.println(temp);
         int a = temp+num;
         System.out.println(a);
-        System.out.println("徐脩是你爹!!!");
+        System.out.println("徐脩是你爹!!!不听劝就去死");
+        
         return a;
     }
 }
